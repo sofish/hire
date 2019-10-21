@@ -1,6 +1,6 @@
 ## 招几个实习生
 
-> 关于我，可以在 [sofi.sh/about](https://sofi.sh/about) 有的粗略的了解
+> 关于我，可以在 [sofi.sh/about](https://sofi.sh/about) 有粗略的了解
 
 最近需要招几位实习生，目前来说，数量不限，可能 10 个，如果 20 个也行。
 
